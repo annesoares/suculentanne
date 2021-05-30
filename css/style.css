@@ -1578,6 +1578,16 @@ section.single-project-section {
   section.single-project-section img {
     width: 100%;
     margin-bottom: 30px; }
+  section.single-project-section figure {
+    margin-top: 30px;
+  }
+  section.single-project-section figure img {
+    margin-bottom: 0;
+  }
+  section.single-project-section figure figcaption {
+    text-align: center;
+    font-style: italic;
+  }
   section.single-project-section .single-content .project-content {
     padding-left: 30px;
     margin-bottom: 30px; }
